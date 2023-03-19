@@ -24,7 +24,7 @@
     'images': [
         'static/description/logo.png',
     ],
-    'depends': ['base','account','analytic'],
+    'depends': ['base','account','analytic','custody_clear_request'],
 
 
 
