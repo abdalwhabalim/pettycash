@@ -1,6 +1,7 @@
 {
     'name': 'Custody Request',
     'version': '1.0',
+    'license': 'OPL-1',
     'category': 'Accounting',
     'author': 'SGT',
     'support': 'info@softguidetech.com',
@@ -15,6 +16,9 @@
         'views/custody_approval_route.xml',
         'views/res_config_settings_views.xml',
         'reports/custody_report.xml',
+    ],
+    'images': [
+        'static/description/logo.png',
     ],
     'depends': ['base','account','analytic','purchase'],
 
