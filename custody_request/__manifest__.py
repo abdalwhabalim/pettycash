@@ -18,7 +18,7 @@
         'reports/custody_report.xml',
     ],
     'images': [
-        'static/description/logo.gif',
+        'static/description/logo.png',
     ],
     'depends': ['base','account','analytic','purchase'],
 
